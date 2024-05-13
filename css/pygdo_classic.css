@@ -1,0 +1,11 @@
+.bar {
+    display: flex;
+}
+
+.gdt-col {
+    flex-direction: column;
+}
+
+.gdt-row {
+    flex-direction: row;
+}
