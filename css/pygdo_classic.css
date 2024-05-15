@@ -9,3 +9,7 @@
 .gdt-row {
     flex-direction: row;
 }
+
+input[readonly] {
+    cursor: not-allowed;
+}
