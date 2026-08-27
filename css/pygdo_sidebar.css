@@ -129,7 +129,6 @@ div.gdo-body {
 
 .gdo-main {
     border: 8px ridge #fefeff;
-    height: 100%;
     min-height: calc(100vh - 64px);
 }
 
